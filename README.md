@@ -23,3 +23,6 @@ The project file is organized into operational layers to ensure data integrity:
 - `Raw Data`: The baseline transaction records.
 - `Clean Data`: Processed and standardized dataset used for analysis.
 - `Dashboard`: The final interactive presentation interface.
+
+ ## Preview
+![Dashboard Preview](dashboard-final.png)
